@@ -1,4 +1,4 @@
-# ewise_sales = pgodston@ewiseinc.com
+# ewise_progrmgmt = pete@ewise-health.awsapps.com
 
 print("We are saving  all data more recent than <timestamp>?", end='  ')
 savestamp = input()
